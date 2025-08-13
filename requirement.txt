@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+datasets
+peft
+accelerate
+sentence-transformers
+faiss-cpu
+numpy
+python-multipart
