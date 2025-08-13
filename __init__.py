@@ -1,2 +1,2 @@
-# This file marks 'app' as a Python package.
-# You can add app-wide initialization code here if needed in the future.
+# This file marks 'api' as a Python package.
+# You can add API-level initialization here if needed.
